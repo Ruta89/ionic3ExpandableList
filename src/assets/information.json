@@ -1,0 +1,94 @@
+{
+    "items": [
+        {
+            "name": "Promocje",
+            "children": [
+                {
+                    "name": "Specialna Ionicowa Pizza",
+                    "information": "Pastrami pork belly ball tip andouille corned beef jerky shankle landjaeger. Chicken chuck porchetta picanha, ham brisket tenderloin venison meatloaf landjaeger jowl.",
+                    "price": "25 PLN"
+                },
+                {
+                    "name": "Pizza Angular",
+                    "information": "Pork chop meatloaf rump, meatball shoulder turducken alcatra doner sausage capicola pork strip steak turkey cupim leberkas.",
+                    "price": "19.99 PLN"
+                }
+            ]
+        },
+        {
+            "name": "Pizza",
+            "children": [
+                {
+                    "name": "Tradycyjna",
+                    "children": [
+                        {
+                            "name": "Pizza Salami",
+                            "information": "Pork chop jowl capicola porchetta, kielbasa prosciutto boudin bacon pork pig.",
+                            "price": "10 PLN"
+                        },
+                        {
+                            "name": "Pizza Prosciutto",
+                            "information": "Pork chop pastrami landjaeger chuck brisket",
+                            "price": "12 PLN"
+                        }
+                    ]
+                },
+                {
+                    "name": "Smakosz",
+                    "children": [
+                        {
+                            "name": "Pizza Bombay",
+                            "information": "Pastrami ham hock ball tip, tongue ribeye chuck ham beef bresaola leberkas.",
+                            "price": "13 PLN"
+                        },
+                        {
+                            "name": "Pizza Crazy Dog",
+                            "information": "Andouille spare ribs meatloaf swine ground round pork loin, brisket chuck bacon tongue.",
+                            "price": "14 PLN"
+                        },
+                        {
+                            "name": "Pizza Italia",
+                            "information": "Ribeye ham t-bone, tail ground round biltong picanha sausage rump corned beef.",
+                            "price": "11 PLN"
+                        },
+                        {
+                            "name": "Pizza Tuna",
+                            "information": "Pork chop pastrami landjaeger chuck brisket",
+                            "price": "14 PLN"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bestseller",
+                    "children": [
+                        {
+                            "name": "Pizza Academy",
+                            "information": "Frankfurter tail capicola cupim shankle salami, beef ribs beef boudin porchetta ball tip leberkas turkey tenderloin.",
+                            "price": "25 PLN"
+                        },
+                        {
+                            "name": "Pizza Ionic",
+                            "information": "Shank chuck tail, kevin shankle ham hock pork loin pork hamburger beef ribs.",
+                            "price": "19.99 PLN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Napoje",
+            "children": [
+                {
+                    "name": "Piwo Perla",
+                    "information": " Landjaeger fatback shank frankfurter, tongue shoulder ham strip steak pancetta pork short loin corned beef short ribs biltong cow",
+                    "price": "5 PLN"
+                },
+                {
+                    "name": "Piwo Zubr",
+                    "information": "Pork chop pastrami landjaeger chuck brisket",
+                    "price": "4 PLN"
+                }
+            ]
+        }
+    ]
+}
