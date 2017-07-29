@@ -27,4 +27,9 @@ export class HomePage {
     this.information[i].children[j].open = !this.information[i].children[j]
       .open;
   }
+
+  buyItem(value) {
+    console.log("buyItem(value): ", value);
+    alert("Kupiles " + value.name + ". Do Zaplaty: " + value.price);
+  }
 }
